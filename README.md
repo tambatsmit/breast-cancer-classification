@@ -8,7 +8,7 @@ Data Preprocessing & Balancing: Applied SMOTE to handle class imbalance and impr
 
 Models Implemented: Random Forest and AdaBoost, with hyperparameter tuning using GridSearchCV.
 
-Performance: Achieved 97% recall with AdaBoost, ensuring high sensitivity for identifying malignant tumors.
+Performance: Achieved 95% recall with AdaBoost, ensuring high sensitivity for identifying malignant tumors.
 
 Evaluation Metrics: Recall, Precision, Accuracy, F1-score, ROC-AUC, and Confusion Matrix for comprehensive evaluation.
 

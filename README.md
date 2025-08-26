@@ -1,4 +1,4 @@
-Tumor Classification using Machine Learning
+Tumor Classification using Machine Learning.
 
 This project focuses on building a predictive model to classify tumors as benign or malignant, supporting early detection and clinical decision-making.
 
